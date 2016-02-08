@@ -1,6 +1,10 @@
 bin
+build
 data
 chkbugreport*.jar
 gen
 /doc
 .DS_Store
+/.gradle
+/.idea
+*.iml

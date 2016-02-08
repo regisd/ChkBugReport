@@ -1,0 +1,5 @@
+rootProject.name = 'chkbugreport'
+
+include 'core'
+include 'android'
+include 'examples'

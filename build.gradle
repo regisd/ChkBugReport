@@ -1,0 +1,8 @@
+subprojects {
+    group 'com.sonyericsson'
+    version '211'
+
+    repositories {
+        jcenter()
+    }
+}
